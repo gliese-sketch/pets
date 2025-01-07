@@ -4,7 +4,7 @@ This is pets website
 
 # Learning
 
-1. Github new repo
+1. Github new repo & Codespace
 2. Favicon add using icons8
 3. Using newcss add some default styling
 4. Deploy using github pages
