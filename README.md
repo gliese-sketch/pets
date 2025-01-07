@@ -9,3 +9,4 @@ This is pets website
 3. Using newcss add some default styling
 4. Deploy using github pages
 5. Commits
+6. Commands: htop, npx live-server
